@@ -1,30 +1,63 @@
-# Pyhton Mundo 1
+# 🐍 Python Mundo 1
 
-Este repositório reúne os exercícios, desafios e projetos desenvolvidos durante o curso **Python Mundo 1** do Estudonauta.
+Repositório com os exercícios, exemplos e desafios desenvolvidos durante o curso **Python Mundo 1**.
 
-## Objetivos
+## 📚 Sobre o curso
+
+Este repositório reúne minha evolução no aprendizado de Python, desde os primeiros conceitos até desafios mais complexos.
+
+## 🎯 Objetivos
 
 - Aprender os fundamentos da linguagem Python.
-- Resolver todos os exercícios do curso.
-- Praticar com desafios extras.
-- Construir uma base sólida para o projeto HotelHub.
+- Desenvolver lógica de programação.
+- Praticar com exercícios e desafios.
+- Construir uma base sólida para o desenvolvimento do projeto **HotelHub**.
 
-## Conteúdo
+## 📂 Estrutura do projeto
 
-- Variáveis
-- Entrada e Saida de dados
-- Operadores
-- Condições
-- Estruturas básicas
-- Exercícios práticos
+```
+python-mundo-1/
+│
+├── aulas/
+├── desafios/
+│   ├── curso/
+│   └── hotelhub/
+│
+├── LICENSE
+└── README.md
+```
 
-  ## Tecnologias
+## 🚀 Tecnologias
 
-  - Python 3
-  - Visual Studio Code
-  - Git
-  - GitHub
+- Python 3
+- Visual Studio Code
+- Git
+- GitHub
 
-  ## Projeto relacionado
+## 🏨 Projeto paralelo
 
-  Este repositório faz parte da minha jornada de transição para a área de TI e servirá como base para o desenvolvimento do **HotelHub**, um sistema de gestão para pousadas e pequenos hotéis.
+Além dos desafios do curso, estou desenvolvendo pequenas missões relacionadas ao **HotelHub**, um futuro sistema de gestão para pousadas e hotéis.
+
+## 📈 Progresso
+
+### Aulas
+
+- [x] Aula 01 - Primeiros comandos
+- [ ] Aula 02
+- [ ] Aula 03
+
+### Desafios do curso
+
+- [x] Desafio 001
+- [x] Desafio 002
+- [x] Desafio 003
+
+### Missões HotelHub
+
+- [x] Missão 001 - Cadastro de hóspede
+
+## 👨‍💻 Autor
+
+**Wallyston de Sá**
+
+GitHub: https://github.com/Wallyston-de-Sa
