@@ -12,6 +12,6 @@ cosseno = cos(radiano)
 tangente = tan(radiano)
 
 #Saída
-print('Seno de {}º é {:.4f}'.format(angulo, seno))
-print('Cosseno de {}º é {:.4f}'.format(angulo, cosseno))
-print('Tangente de {}º é {:.4f}'.format(angulo, tangente))
+print('Seno de {}º é {:.2f}'.format(angulo, seno))
+print('Cosseno de {}º é {:.2f}'.format(angulo, cosseno))
+print('Tangente de {}º é {:.2f}'.format(angulo, tangente))

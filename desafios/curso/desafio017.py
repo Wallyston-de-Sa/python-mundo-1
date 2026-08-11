@@ -3,4 +3,4 @@ from math import hypot
 oposto = float(input('Qual é o comprimento do cateto oposto? '))
 adjacente = float(input('Qual é o comprimento do cateto adjacente? '))
 hipotenusa = hypot(oposto, adjacente)
-print('A hipotenusa é {}'.format(hipotenusa))
+print('A hipotenusa é {:.2f}'.format(hipotenusa))
