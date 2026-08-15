@@ -391,47 +391,30 @@ Alguns dos principais recursos:
 
 ---
 
-# 🏨 Aplicação no HotelHub
+## 🏨 Aplicação prática — HotelHub
 
-O conteúdo desta aula será muito útil para o HotelHub.
+Nesta etapa do curso, os conhecimentos de **manipulação de strings** começaram a ganhar uma aplicação mais próxima de um sistema real.
 
-Por exemplo, quando um hóspede digitar o nome:
+No **HotelHub**, foi desenvolvida uma funcionalidade voltada ao cadastro e identificação de hóspedes. A proposta é transformar informações digitadas pelo usuário em dados mais organizados e prontos para serem utilizados pelo sistema.
 
-```python
-nome = input('Nome do hóspede: ')
-```
+Durante a construção da aplicação, foram trabalhados recursos como:
 
-Podemos organizar o texto:
+- 🔤 Padronização de nomes;
+- 🔠 Conversão entre maiúsculas e minúsculas;
+- 🔎 Busca e identificação de partes de um texto;
+- ✂️ Remoção e tratamento de espaços;
+- 📋 Separação de informações dentro de uma string;
+- 👤 Identificação do primeiro e último nome.
 
-```python
-nome = nome.strip()
-nome = nome.title()
-```
+### 💡 Do exercício para um sistema real
 
-Assim, se a pessoa digitar:
+O objetivo não foi apenas reproduzir os exercícios da aula.
 
-```text
-   joão da silva
-```
+A ideia do **HotelHub** é utilizar cada novo conhecimento aprendido no curso para, aos poucos, transformar um simples programa em uma aplicação voltada para situações reais da hotelaria.
 
-podemos deixar:
+Nesta etapa, uma informação aparentemente simples — como o nome de um hóspede — já começa a ser tratada de diferentes formas dentro do sistema.
 
-```text
-João Da Silva
-```
-
-Também podemos verificar informações digitadas pelo usuário.
-
-Por exemplo:
-
-```python
-cidade = input('Cidade: ')
-
-print('Rio' in cidade)
-```
-
-Isso pode ser útil futuramente para validar informações no sistema.
-
+E isso é apenas o começo.
 ---
 
 # 💡 O que achei importante nesta aula

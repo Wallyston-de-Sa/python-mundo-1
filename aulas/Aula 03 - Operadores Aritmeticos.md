@@ -1,4 +1,4 @@
-# Aula 07 - Operadores Aritméticos
+# Aula 03 - Operadores Aritméticos
 
 ## Objetivo da aula
 
@@ -179,20 +179,3 @@ Os operadores aritméticos serão utilizados para calcular:
 - Acréscimos.
 - Faturamento mensal.
 - Média de ocupação dos quartos.
-
-### Exemplo
-
-```python
-diaria = 250.00
-dias = 4
-
-total = diaria * dias
-
-print("Valor total: R${:.2f}".format(total))
-```
-
-Resultado:
-
-```
-Valor total: R$1000.00
-```

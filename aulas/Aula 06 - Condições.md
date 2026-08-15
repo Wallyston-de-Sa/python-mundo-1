@@ -272,24 +272,7 @@ Antes, o programa apenas recebia informações e mostrava os resultados.
 
 Agora ele consegue **tomar decisões**.
 
-Na Missão 007, criei uma verificação para saber se um quarto está disponível:
-
-```python
-num = int(input('Quarto: '))
-nome = str(input('Nome do hóspede: ')).strip().title()
-disponivel = str(input('S/N: ')).upper()
-
-print('========== HOTELHUB ===========\n')
-print('Quarto: {}'.format(num))
-print('Hóspede: {}\n'.format(nome))
-
-if disponivel == 'S':
-    print('Quarto disponível!\nReserva liberada.')
-else:
-    print('Quarto indisponível!\nNão é possível realizar a reserva.')
-
-print('=' * 31)
-```
+Na Missão 007, criei uma verificação para saber se um quarto está disponível. 
 
 Agora o HotelHub consegue analisar a resposta do usuário e apresentar uma mensagem diferente dependendo da situação.
 
@@ -329,14 +312,6 @@ Nesta aula aprendi:
 - Comparação de números
 - Tomada de decisões
 - Importância da indentação
-
----
-
-# 🏨 HotelHub
-
-Missão realizada:
-
-- [x] Missão 007 - Disponibilidade do quarto
 
 ---
 
