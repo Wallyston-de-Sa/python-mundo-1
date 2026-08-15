@@ -1,5 +1,9 @@
 # Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+
+# Entrada de dados
 num = int(input('Digite um número: '))
+
+# Processamento e saída de resultados
 print('='*15)
 print('TABUADA DE {} '.format(num))
 print('='*15)

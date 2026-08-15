@@ -1,5 +1,9 @@
 #Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+
+# Entrada de dados
 valor = input("Digite algo: ")
+
+# Saída de resultados e manipulação
 print("Tipo primitivo:", type(valor))
 print("É numérico?", valor.isnumeric())
 print("É alfabético?", valor.isalpha())
